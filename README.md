@@ -44,7 +44,7 @@ If a field is empty or invalid:
 An error message appears in front of that input.
 The error automatically disappears after 3 seconds.
 If the input is correct:
-A check icon appears next to the field.
+
 This ensures that users get immediate feedback without refreshing the page.
 
 ## Technologies Used
