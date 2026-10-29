@@ -46,9 +46,3 @@ The error automatically disappears after 3 seconds.
 If the input is correct:
 
 This ensures that users get immediate feedback without refreshing the page.
-
-## Technologies Used
-
-- HTML5
-- CSS3
-- JavaScript (Vanilla JS)
