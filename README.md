@@ -36,5 +36,3 @@ This project is a simple **form validation system** built using **HTML, CSS, and
 3. Fill in the form fields.
 4. Click Submit.
 5. Observe the error messages or success icons based on your inputs.
-
-## How it Works
