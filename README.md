@@ -38,5 +38,3 @@ This project is a simple **form validation system** built using **HTML, CSS, and
 5. Observe the error messages or success icons based on your inputs.
 
 ## How it Works
-
-JavaScript checks each input field when the user clicks Submit.
