@@ -41,4 +41,3 @@ This project is a simple **form validation system** built using **HTML, CSS, and
 
 JavaScript checks each input field when the user clicks Submit.
 If a field is empty or invalid:
-An error message appears in front of that input.
