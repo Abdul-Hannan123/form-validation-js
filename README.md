@@ -40,4 +40,3 @@ This project is a simple **form validation system** built using **HTML, CSS, and
 ## How it Works
 
 JavaScript checks each input field when the user clicks Submit.
-If a field is empty or invalid:
