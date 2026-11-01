@@ -14,7 +14,7 @@ This project is a simple **form validation system** built using **HTML, CSS, and
 - Error messages automatically **disappear after 3 seconds**.
 - Shows a **check icon** next to each input field when the field is correctly filled.
 - Provides visual feedback for:
-  1. **All errors** (all fields are empty or invalid)
+
   2. **Some errors** (only some fields are invalid)
   3. **All correct** (all fields correctly filled)
 
