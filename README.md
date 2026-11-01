@@ -7,7 +7,7 @@ This project is a simple **form validation system** built using **HTML, CSS, and
 - Collects user input for:
   - Full Name
   - Phone Number
-  - Email
+
   - Message
 - Real-time validation for each input field.
 - Displays error messages **in front of the respective input field** if a required field is missing.
