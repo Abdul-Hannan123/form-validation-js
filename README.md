@@ -5,7 +5,7 @@ This project is a simple **form validation system** built using **HTML, CSS, and
 ## Features
 
 - Collects user input for:
-  - Full Name
+
   - Phone Number
 
   - Message
