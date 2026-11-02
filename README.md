@@ -16,7 +16,7 @@ This project is a simple **form validation system** built using **HTML, CSS, and
 - Provides visual feedback for:
 
   2. **Some errors** (only some fields are invalid)
-  3. **All correct** (all fields correctly filled)
+
 
 ## Screenshots
 
