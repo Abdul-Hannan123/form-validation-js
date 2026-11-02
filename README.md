@@ -28,7 +28,3 @@ This project is a simple **form validation system** built using **HTML, CSS, and
 
 ### 3. All checks shown
 <img width="958" height="413" alt="3rd" src="https://github.com/user-attachments/assets/626508d5-4049-45fb-8ed0-0612703f3115" />
-
-## Usage
-
-1. Clone the repository:
