@@ -15,8 +15,7 @@ This project is a simple **form validation system** built using **HTML, CSS, and
 - Shows a **check icon** next to each input field when the field is correctly filled.
 - Provides visual feedback for:
 
-  2. **Some errors** (only some fields are invalid)
-
+---
 
 ## Screenshots
 
@@ -28,3 +27,5 @@ This project is a simple **form validation system** built using **HTML, CSS, and
 
 ### 3. All checks shown
 <img width="958" height="413" alt="3rd" src="https://github.com/user-attachments/assets/626508d5-4049-45fb-8ed0-0612703f3115" />
+
+---
