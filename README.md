@@ -13,7 +13,6 @@ This project is a simple **form validation system** built using **HTML, CSS, and
 - Displays error messages **in front of the respective input field** if a required field is missing.
 - Error messages automatically **disappear after 3 seconds**.
 - Shows a **check icon** next to each input field when the field is correctly filled.
-- Provides visual feedback for:
 
 ---
 
