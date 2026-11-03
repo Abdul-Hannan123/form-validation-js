@@ -11,7 +11,6 @@ This project is a simple **form validation system** built using **HTML, CSS, and
   - Message
 - Real-time validation for each input field.
 - Displays error messages **in front of the respective input field** if a required field is missing.
-- Error messages automatically **disappear after 3 seconds**.
 
 ---
 
