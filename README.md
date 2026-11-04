@@ -6,12 +6,6 @@ This project is a simple **form validation system** built using **HTML, CSS, and
 
 - Collects user input for:
 
-  - Phone Number
-
- 
-
-
-
 ---
 
 ## Screenshots
