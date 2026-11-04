@@ -8,7 +8,7 @@ This project is a simple **form validation system** built using **HTML, CSS, and
 
   - Phone Number
 
-  - Message
+ 
 
 
 
