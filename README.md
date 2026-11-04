@@ -2,9 +2,6 @@
 
 This project is a simple **form validation system** built using **HTML, CSS, and JavaScript**. It validates user inputs and provides real-time feedback on errors or successful entries.
 
-## Features
-
-
 ---
 
 ## Screenshots
