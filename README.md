@@ -1,6 +1,6 @@
 # Form Validation Project
 
-This project is a simple **form validation system** built using **HTML, CSS, and JavaScript**.
+This project is a simple **form validation system** built
 
 ---
 
