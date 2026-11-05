@@ -1,6 +1,5 @@
 # Form Validation Project
 
-This project is a simple **form validation system** built
 
 ---
 
