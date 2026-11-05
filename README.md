@@ -1,6 +1,3 @@
-# Form Validation Project
-
-
 ---
 
 ## Screenshots
