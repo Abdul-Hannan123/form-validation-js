@@ -17,4 +17,4 @@
 
 
 Future improvements
-naughty project
+small project
