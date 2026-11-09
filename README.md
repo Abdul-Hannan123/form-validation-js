@@ -17,4 +17,3 @@
 
 
 Future improvements
-small project
