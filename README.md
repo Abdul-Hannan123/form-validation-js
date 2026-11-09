@@ -17,4 +17,4 @@
 
 
 Future improvements
-bsic project
+naughty project
