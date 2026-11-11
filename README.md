@@ -17,4 +17,4 @@
 
 
 Future improvements
-okay buddy thanks gift 
+okay buddy thanks
