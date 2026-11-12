@@ -16,5 +16,3 @@
 ---
 
 
-Chris Cassell
-· 2nd
