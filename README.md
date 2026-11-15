@@ -17,7 +17,5 @@
 
 # Improvements in code 
 
-1.  first open the vs code
-
 
 
