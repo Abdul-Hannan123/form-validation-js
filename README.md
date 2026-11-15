@@ -19,5 +19,5 @@
 
 1.  first open the vs code
 2. open the terminal
-3. close the editor
+
 
