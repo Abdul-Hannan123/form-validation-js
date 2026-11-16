@@ -17,5 +17,8 @@
 
 # Improvements in code 
 
+- Hello World
+- Hello Python
+- Hello Javascript
 
 
