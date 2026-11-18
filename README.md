@@ -19,5 +19,3 @@
 
 - Hello world
 - Hello Python
-- Hello Javascript
-
