@@ -19,7 +19,6 @@
 
 - Hello world
 - abc
-- def
 
 
 
