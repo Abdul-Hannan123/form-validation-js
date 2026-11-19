@@ -18,7 +18,5 @@
 # Improvements in code 
 
 - Hello world
-- abc
-
 
 
