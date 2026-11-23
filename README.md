@@ -18,6 +18,13 @@
 # Improvements in code 
 
 
+The Airports Security Force (ASF) has announced 1,036 vacancies under advertisement ASF/2026/1036/55, with online applications accepted through the official Join ASF portal before the 6 December 2026 closing date.
+
+Key Positions & Requirements
+
+• ASI (BPS-11) – 152 posts: Intermediate or equivalent; age 18–30 years; open to male and female candidates.
+• Corporal (BPS-7) – 858 posts: Matric or equivalent; age 18–30 years; open to male and female candidates.
+• Corporal Driver (BPS-5) – 19 posts (plus 4 additional posts): Matric or equivalent with valid LTV/HTV licence; age 18–35 years; male candidates only.
 
 
 
