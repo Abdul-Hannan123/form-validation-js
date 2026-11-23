@@ -23,7 +23,7 @@ The Airports Security Force (ASF) has announced 1,036 vacancies under advertisem
 Key Positions & Requirements
 
 • ASI (BPS-11) – 152 posts: Intermediate or equivalent; age 18–30 years; open to male and female candidates.
-• Corporal (BPS-7) – 858 posts: Matric or equivalent; age 18–30 years; open to male and female candidates.
+
 
 
 
