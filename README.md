@@ -22,6 +22,6 @@ The Airports Security Force (ASF) has announced 1,036 vacancies under advertisem
 
 Key Positions & Requirements
 
- is a branch of computer science and technology that enables machines and software to perform tasks that typically require human intelligence, such as learning from data, recognizing patterns, understanding language, solving problems, and making decisions. Unlike traditional software that strictly follows step-by-step programmed rules.
+ is a branch of computer science and technology that enables machines and software to perform tasks that typically require human intelligence, such as learning from data, recognizing patterns, understanding language, solving problems, and making decisions.
 
 
