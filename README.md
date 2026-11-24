@@ -22,6 +22,4 @@ The Airports Security Force (ASF) has announced 1,036 vacancies under advertisem
 
 Key Positions & Requirements
 
- is a branch of computer science and technology that enables machines and software to perform tasks that typically require human intelligence
-
 
