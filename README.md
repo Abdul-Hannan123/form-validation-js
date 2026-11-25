@@ -18,5 +18,4 @@
 # Improvements in code 
 
 
-The Airports Security Force (ASF) has announced 1,036 vacancies under advertisement ASF/2026/1036/55
 
